@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Retinal Image Registration
+- 🔭 I’m currently working on mCNV Image Analysis
 - 🌱 I’m currently learning CNNs
 - 👯 I’m looking to collaborate on Computer Vision research projects
 - 📫 How to reach me: Drop me an email at f20190077@pilani.bits-pilani.ac.in
