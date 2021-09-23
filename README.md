@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on mCNV Image Analysis
-- 🌱 I’m currently learning CNNs
 - 👯 I’m looking to collaborate on Computer Vision research projects
-- 📫 How to reach me: Drop me an email at f20190077@pilani.bits-pilani.ac.in
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Check out my digital art on IG: [@gigi_impact](https://www.instagram.com/miss_gigi_impact/?hl=en)
 
-[![Aadit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadit3003&hide=issues&title_color=ffffff&icon_color=ffffff&text_color=ffffff&show_icons=true&bg_color=90,ed765e,fea858)](https://github.com/Aadit3003/github-readme-stats)
+[![Aadit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadit3003&hide=issues&title_color=ffffff&icon_color=ffffff&text_color=ffffff&show_icons=true&bg_color=45,428cd4,ff9cda)](https://github.com/Aadit3003/github-readme-stats)
 
 
 <!--
