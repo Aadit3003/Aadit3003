@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a paper for my project on mCNV Image Analysis
+- 🔭 I’m currently working on a project on Deep learning-based Retinal Image Registration
 - 😄 Pronouns: he/him
 
 [![Aadit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadit3003&hide=issues&title_color=ffffff&icon_color=ffffff&text_color=ffffff&show_icons=true&bg_color=45,428cd4,ff9cda)](https://github.com/Aadit3003/github-readme-stats)
